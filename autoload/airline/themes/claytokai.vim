@@ -6,7 +6,7 @@ let g:airline#themes#claytokai#palette.accents = {
 
 
 " Normal mode
-let s:N1 = [ '#080808' , '#e6db74' , 232 , 220 ] " mode
+let s:N1 = [ '#080808' , '#e6db74' , 232 , 229 ] " mode
 let s:N2 = [ '#f8f8f0' , '#232526' , 253 , 16  ] " info
 let s:N3 = [ '#f8f8f0' , '#465457' , 253 , 67  ] " statusline
 
